@@ -1,1 +1,1 @@
-console.log('Chỉnh sửa index');
+// Chỉnh sửa index.js
